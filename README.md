@@ -4,10 +4,6 @@
 <br>
  And the 4th year student of BS - Software Engineering at PMAS | ARID
 <br/>
-<br/>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mujtaba-404) 
 
 <br/>
 
@@ -20,6 +16,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=mujtaba-404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mujtaba-404&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mujtaba-404&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br/>
+<br/>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mujtaba-404) 
+
 
 ---
 
