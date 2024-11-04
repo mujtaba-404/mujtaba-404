@@ -1,8 +1,7 @@
 
-# Hi there 👋<br>
-## I'm Muhammad Mujtaba ⚡
-<br>
- And the 4th year student of BS - Software Engineering at PMAS | ARID
+
+# I'm Muhammad Mujtaba ⚡
+a passionate Frontend Developer currently in my 4th year of Software Engineering at PMAS | ARID
 <br/>
 
 <br/>
@@ -12,15 +11,14 @@
 
 <br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mujtaba-404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+# 🌱 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mujtaba-404&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mujtaba-404&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
 <br/>
 
-## 🌐 Socials:
+## 📫 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mujtaba-404) 
 
 
