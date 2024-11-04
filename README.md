@@ -1,7 +1,7 @@
 
-# 💫 About Me:
-## Hi there 👋<br>
-# I'm Muhammad Mujtaba ⚡<br>
+# Hi there 👋<br>
+## I'm Muhammad Mujtaba ⚡
+<br>
  And the 4th year student of BS - Software Engineering at PMAS | ARID
 <br/>
 <br/>
